@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciDersSecimSistemi", "OgrenciDersSecimSistemi\OgrenciDersSecimSistemi.csproj", "{682120A1-7D6F-4E12-A92D-B422FE71BD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682120A1-7D6F-4E12-A92D-B422FE71BD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682120A1-7D6F-4E12-A92D-B422FE71BD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682120A1-7D6F-4E12-A92D-B422FE71BD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682120A1-7D6F-4E12-A92D-B422FE71BD19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9F241EE-31D2-4F46-B1C5-AB7FC0ECDD28}
+	EndGlobalSection
+EndGlobal

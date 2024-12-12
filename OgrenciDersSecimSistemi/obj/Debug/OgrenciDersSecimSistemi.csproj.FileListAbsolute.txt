@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\bin\Debug\OgrenciDersSecimSistemi.exe.config
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\bin\Debug\OgrenciDersSecimSistemi.exe
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\bin\Debug\OgrenciDersSecimSistemi.pdb
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\obj\Debug\OgrenciDersSecimSistemi.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\obj\Debug\OgrenciDersSecimSistemi.Properties.Resources.resources
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\obj\Debug\OgrenciDersSecimSistemi.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\obj\Debug\OgrenciDersSecimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\obj\Debug\OgrenciDersSecimSistemi.exe
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\obj\Debug\OgrenciDersSecimSistemi.pdb
+C:\Users\yusuf\source\repos\OgrenciDersSecimSistemi\OgrenciDersSecimSistemi\obj\Debug\OgrenciDersSecimSistemi.Form1.resources
